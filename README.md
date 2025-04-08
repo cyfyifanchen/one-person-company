@@ -53,7 +53,11 @@
 
 
 ## 🤖 大语言模型
-![llm.jpg](./assets/jpg/llm-final.jpg)
+<div align="center">
+
+![llm.jpg](./assets/jpg/llm.jpg)
+
+</div>
 
 在日常使用中，我主要依赖 GPT-4o 和 DeepSeek-V2 来处理文案创作和一般性问题。两者各有优势:GPT-4o 的回答更加全面和人性化，而 DeepSeek-V2 则在中文语境下表现出色。当遇到这两个模型给出不同答案时，我会使用 Grok 作为第三方意见来帮助判断。
 
@@ -83,8 +87,11 @@
 <br>
 
 ## 🗣️ TTS
+<div align="center">
 
 ![tts.jpg](./assets/jpg/tts.jpg)
+
+</div>
 
 - [VoxPopuli](https://voxpopuli.ai)
 - [ElevenLabs](https://elevenlabs.io)
@@ -102,7 +109,11 @@
 <br>
 
 ## 💻 代码
-![](./assets/jpg/code.jpg)
+<div align="center">
+
+![code.jpg](./assets/jpg/code.jpg)
+
+</div>
 
 - **IDE**
   - [TRAE][trae-link] + [Cursor][cursor-link]  
@@ -125,7 +136,11 @@
 <br>
 
 ## 🎨 设计工具
+<div align="center">
+
 ![design.jpg](./assets/jpg/design.jpg)
+
+</div>
 
 ### 全能设计
 - [Recraft.ai][recraft-link]  
@@ -200,7 +215,11 @@
 
 ## ⚙️ 生产力工具
 
+<div align="center">
+
 ![productivity.jpg](./assets/jpg/productivity.jpg)
+
+</div>
 
 ### 系统增强
 - [Raycast][raycast-link] - 启动器（免费）
@@ -239,7 +258,11 @@
 
 ## 🌐 网站系列 - 一键生成网站
 
+<div align="center">
+
 ![website.jpg](./assets/jpg/website.jpg)
+
+</div>
 
 | 平台 | 耗时 | 特点 | 价格 | 演示 |
 |------|------|------|------|------|
@@ -259,7 +282,11 @@
 
 ## 📚 学习系列
 
+<div align="center">
+
 ![learn.jpg](./assets/jpg/learning.jpg)
+
+</div>
 
  *coming soon*
 
