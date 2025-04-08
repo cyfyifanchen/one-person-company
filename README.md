@@ -1,4 +1,4 @@
-<div align="center"> <a name="#readme-top"></a>
+<div align="center"><a name="readme-top"></a>
 
 ![One Person Company AI Tools](./assets/gif/banner-cape.gif)
 
