@@ -76,6 +76,22 @@ Please 🌟 Star | 🔖 Bookmark | 🫰 Share
   - AI-powered browser
   - Free beta access
 
+## 💻 Code
+
+![](./assets/jpg/code.jpg)
+
+- **IDE**
+  - [TRAE][trae-link] + [Cursor][cursor-link]  
+    AI-assisted development (3.7 free + free)
+  - [VS Code][vscode-link]  
+    Open source and free, rich in plugins
+  - [Windsurf][windsurf-link]  
+    Lightweight development tool (free)
+
+- **Command Line Terminal**
+  - [Warp][warp-link]  
+    AI terminal (free tier)
+
 <br>
 
 ![](./assets/png/hr-line.png)
@@ -280,3 +296,5 @@ Testing prompt: "Create a beautiful SAAS landing page"
 [hailuo-link]: http://hailuoai.com/video
 [overflow-link]: http://overflow.io
 [fiverr-link]: https://www.fiverr.com/categories/graphics-design/creative-logo-design
+[vscode-link]: https://code.visualstudio.com
+[windsurf-link]: https://www.windsurfapp.com
