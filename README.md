@@ -66,24 +66,44 @@
 
 </div>
 
-在日常使用中，我主要依赖 GPT-4o 和 DeepSeek-V2 来处理文案创作和一般性问题。两者各有优势:GPT-4o 的回答更加全面和人性化，而 DeepSeek-V2 则在中文语境下表现出色。当遇到这两个模型给出不同答案时，我会使用 Grok 作为第三方意见来帮助判断。
+在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。目前我主要使用 Claude 3.7 Sonnet 和 Gemini 2.5 Pro，这两个模型在各方面都表现出色。当遇到需要进一步验证的问题时，我也会使用 DeepSeek 和 Grok 来交叉对比，以获得更准确的答案。
 
-在编程方面，我主要使用 Claude 3 Sonnet 和 Claude 3.5。这两个模型在代码理解、生成和调试方面都表现优异，特别是在处理复杂的编程任务时更为可靠。
 
-至于 Gemini 2，虽然功能强大，但目前的使用体验还不够稳定。我偶尔会用它来尝试一些特定任务，但并不作为主力工具。
+#### 📊 WebDev Arena 实时排行
+https://web.lmarena.ai/leaderboard
+| 模型 | Chatbot Arena 排名 | Source |
+|------|---------------------|--------|
+| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 🥇 #1                 | [LMArena](https://web.lmarena.ai/leaderboard) |
+| [Gemini-2.5-Pro-Exp-03-25 (Google)](https://deepmind.google/technologies/gemini/) | 🥈 #2                 | [LMArena](https://web.lmarena.ai/leaderboard) |
+| [Claude 3.5 Sonnet (Anthropic)](https://www.anthropic.com/index/claude-3-5-sonnet) | 🥉 #3                 | [LMArena](https://web.lmarena.ai/leaderboard) |
+| [DeepSeek-V3-0324 (DeepSeek)](https://github.com/deepseek-ai/) | 🏅 #4                 | [LMArena](https://web.lmarena.ai/leaderboard) |
+| [early-grok-3 (xAI)](https://x.ai) | 🏅 #6                 | [LMArena](https://web.lmarena.ai/leaderboard) |
+| [GPT-4o-2024-11-20 (OpenAI)](https://openai.com/chatgpt) | 🏅 #20                | [LMArena](https://web.lmarena.ai/leaderboard) |
+| [Alama (评测平台)](https://alama.ai) | ✅ 模型对比聚合平台 | -      |
 
+<br>
 
 #### 📊 Chatbot Arena 实时排行
-由 LMSYS 团队维护，基于真实用户盲测，极具参考价值  🔗 https://chat.lmsys.org/?leaderboard
+https://web.lmarena.ai/leaderboard
 
-| 模型 | 简介 | Chatbot Arena 排名 |
-|------|------|---------------------|
-| [ChatGPT-4o (OpenAI)](https://openai.com/chatgpt) | 多模态旗舰模型，支持图像、语音和实时响应 | 🥇 [#1](https://chat.lmsys.org/?leaderboard) |
-| [Claude 3.5 Sonnet (Anthropic)](https://www.anthropic.com/index/claude-3-5-sonnet) | Claude 最新中高端模型，擅长写作、编程与推理 | 🥈 [#2](https://chat.lmsys.org/?leaderboard) |
-| [Gemini 1.5 (Google)](https://deepmind.google/technologies/gemini/) | Google 大语言模型，长上下文、多模态能力强 | 🏅 Top 10 |
-| [DeepSeek-V2](https://github.com/deepseek-ai/DeepSeek-V2) | 中文/代码能力优秀，完全开源 | 🏅 Top 10 |
-| [Grok (xAI)](https://x.ai) | X 平台生态内置 AI，更偏实用和辅助信息流 | ❓ 暂无 Arena 排名 |
-| [Alama (评测平台)](https://alama.ai) | 开源模型评测平台，可查看多模型横评结果 | ✅ 模型对比聚合平台 |
+| 模型 | Chatbot Arena 排名 (UB) | Source |
+|------|-------------------------|--------|
+| [Gemini-2.5-Pro-Exp-03-25 (Google)](https://deepmind.google/technologies/gemini/) | 🥇 #1                     | [LMArena](https://web.lmarena.ai/leaderboard) |
+| [ChatGPT-4o-latest (OpenAI)](https://openai.com/chatgpt) | 🥈 #2                     | [LMArena](https://web.lmarena.ai/leaderboard) |
+| [Grok-3-Preview-02-24 (xAI)](https://x.ai) | 🥈 #2                     | [LMArena](https://web.lmarena.ai/leaderboard) |
+| [GPT-4.5-Preview (OpenAI)](https://openai.com/) | 🥈 #2                     | [LMArena](https://web.lmarena.ai/leaderboard) |
+| [Gemini-2.0-Flash-Thinking-Exp-01-21 (Google)](https://deepmind.google/technologies/gemini/) | 🏅 #5                     | [LMArena](https://web.lmarena.ai/leaderboard) |
+| [Gemini-2.0-Pro-Exp-02-05 (Google)](https://deepmind.google/technologies/gemini/) | 🏅 #5                     | [LMArena](https://web.lmarena.ai/leaderboard) |
+| [DeepSeek-V3-0324 (DeepSeek)](https://github.com/deepseek-ai/) | 🏅 #5                     | [LMArena](https://web.lmarena.ai/leaderboard) |
+| [DeepSeek-R1 (DeepSeek)](https://github.com/deepseek-ai/) | 🏅 #7                     | [LMArena](https://web.lmarena.ai/leaderboard) |
+| [Gemini-2.0-Flash-001 (Google)](https://deepmind.google/technologies/gemini/) | 🏅 #8                     | [LMArena](https://web.lmarena.ai/leaderboard) |
+| [o1-2024-12-17 (OpenAI?)](https://openai.com/) | 🏅 #8                     | [LMArena](https://web.lmarena.ai/leaderboard) |
+| [Gemma-3-27B-it (Google)](https://huggingface.co/google/gemma-3-27b-it) | 🏅 #10                    | [LMArena](https://web.lmarena.ai/leaderboard) |
+| [Qwen2.5-Max (Alibaba)](https://huggingface.co/Qwen/Qwen2.5-72B-Chat) | 🏅 #11                    | [LMArena](https://web.lmarena.ai/leaderboard) |
+| [o1-preview (OpenAI?)](https://openai.com/) | 🏅 #11                    | [LMArena](https://web.lmarena.ai/leaderboard) |
+| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 🏅 #22                    | [LMArena](https://web.lmarena.ai/leaderboard) |
+
+
 
 <div align="right">
 
