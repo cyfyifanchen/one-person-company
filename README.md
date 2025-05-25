@@ -620,6 +620,15 @@ https://web.lmarena.ai/leaderboard
   - 定期更新与推荐：平台持续更新工具库，并通过博客和新闻通讯分享最新的工具和资源。
   - 免费
 
+- [AI Flow Chat](https://aiflowchat.com)
+  -	🔥🔥🔥 强烈推荐
+	-	可视化 AI 工作流搭建工具
+	-	无需编程，拖拽式创建 AI 流程
+	-	支持多模型组合（Fast / Standard / Premium）
+	-	一键分享，可打包为可用小应用
+	-	自动化内容创作、数据分析、研究报告等
+	-	免费试用，无需绑定信用卡
+
 </details>
 
 <div align="right">
