@@ -378,6 +378,8 @@ https://web.lmarena.ai/leaderboard
   - 🚀 极简输入 GitHub 链接即可开始分析
 
 ### 全栈开发与快速构建
+- [Nexty](https://nexty.dev)
+  - 后端 + 前端 + Auth + 支付 + CMS
 - [Tempo](https://tempo.new)
   - 后端 + 前端 + Auth + 支付
 - [Chef](https://chef.convex.dev)
