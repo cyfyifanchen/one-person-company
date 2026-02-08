@@ -51,6 +51,7 @@
   - [查看详细内容](#)
 - [👻 恶搞系列](#恶搞系列)
   - [查看详细内容](#)
+- [🦞 AI Bot 与自动化](#ai-bot-与自动化)
 
 </details>
 
@@ -412,6 +413,15 @@ https://web.lmarena.ai/leaderboard
   - 前端/Apps/Games
 - [Magic Patterns](https://magicpatterns.com)
   - AI 原型设计平台，用于产品团队快速构建原型、获取用户反馈并进行数据驱动决策。
+
+### AI Bot 与自动化
+- [Lingti Bot](https://github.com/ruilisi/lingti-bot)
+  - 极简 AI Bot 平台，单文件部署（~30MB），零依赖，一次编译到处执行
+  - 内置 MCP Server，兼容 Claude Desktop、Cursor、Windsurf
+  - 支持企业微信、飞书、Slack、Telegram、Discord、钉钉等多平台接入
+  - 75+ MCP 工具覆盖文件、Shell、Git/GitHub、浏览器自动化、日程管理等
+  - 语音交互支持多种 TTS/STT 引擎
+  - 云中继技术，5 分钟接入，无需公网服务器和域名备案
 
 </details>
 
