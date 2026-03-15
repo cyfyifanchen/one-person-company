@@ -470,6 +470,7 @@ https://web.lmarena.ai/leaderboard
 | [Jitter][jitter-link] | 专注 Hero 动画<br>简单易用 | 免费版够用 |
 | [HailuoAI][hailuo-link] | 支持多种动态效果<br>适合社媒内容 | 免费版够用 |
 | [KlingAI][kling-link] | AI 驱动转换<br>社媒优化 | 免费版够用 |
+| [PopcornAI](https://popcornai.art/) | 图片或提示词生成品牌短视频<br>适合上新素材、广告创意、社媒内容 | 免费/付费 |
 
 ### 工作流设计
 | 工具 | 特点 | 定价 |
