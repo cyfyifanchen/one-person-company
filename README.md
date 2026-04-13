@@ -620,6 +620,12 @@ https://web.lmarena.ai/leaderboard
   - 定期更新与推荐：平台持续更新工具库，并通过博客和新闻通讯分享最新的工具和资源。
   - 免费
 
+- [SureThing](https://surething.io)
+  - AI 工作助手 / 数字分身
+  - 7×24 监控邮箱和日历，自动草拟回复、安排会议、执行研究
+  - 支持 800+ 应用集成
+  - 免费增值
+
 </details>
 
 <div align="right">
