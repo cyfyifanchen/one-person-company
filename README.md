@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/cyfyifanchen-one-person-company-badge.png)](https://mseep.ai/app/cyfyifanchen-one-person-company)
+
 <div align="center"><a name="readme-top"></a>
 
 ![One Person Company AI Tools](./assets/gif/banner-cape.gif)
