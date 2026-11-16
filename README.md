@@ -620,6 +620,14 @@ https://web.lmarena.ai/leaderboard
   - 定期更新与推荐：平台持续更新工具库，并通过博客和新闻通讯分享最新的工具和资源。
   - 免费
 
+
+### Academic Writing & Document Translation
+
+- [HumanPen](https://humanpen.net/)
+  - Document-level Humanize (DOCX/PPTX/TXT), Translate (12 target languages, PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT), Condense (DOCX), Citation Format Correction (12 styles, DOCX), and Research Projects
+  - Commercial credit-based SaaS (100 signup credits); no detector guarantees or ghostwriting
+  - API: https://api.humanpen.net/v1/docs.md | Ethics: https://humanpen.net/ethics
+
 </details>
 
 <div align="right">
